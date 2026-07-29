@@ -1,0 +1,7 @@
+# Xcode / SPM
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+Package.resolved
